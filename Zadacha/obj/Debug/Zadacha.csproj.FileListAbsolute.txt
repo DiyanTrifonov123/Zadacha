@@ -1,0 +1,8 @@
+C:\9Д\Izpitvane21.02\Zadacha\bin\Debug\Zadacha.exe.config
+C:\9Д\Izpitvane21.02\Zadacha\bin\Debug\Zadacha.exe
+C:\9Д\Izpitvane21.02\Zadacha\bin\Debug\Zadacha.pdb
+C:\9Д\Izpitvane21.02\Zadacha\obj\Debug\Zadacha.csproj.AssemblyReference.cache
+C:\9Д\Izpitvane21.02\Zadacha\obj\Debug\Zadacha.csproj.SuggestedBindingRedirects.cache
+C:\9Д\Izpitvane21.02\Zadacha\obj\Debug\Zadacha.csproj.CoreCompileInputs.cache
+C:\9Д\Izpitvane21.02\Zadacha\obj\Debug\Zadacha.exe
+C:\9Д\Izpitvane21.02\Zadacha\obj\Debug\Zadacha.pdb
